@@ -1,0 +1,13 @@
+h1 {
+    color:aquamarine;
+}body {
+    font-family: Arial,  sans-serif; /* Familia de fuentes */
+    font-size: 11px; /* El tamaño de la fuente principal en el tag <p></p> */
+    background-color: #5e835b; /* El color del fondo de la página web */
+    color: #333333; /* El color del texto*/ 
+}img {
+    width: 300px; /* Cambia el ancho de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    display: block; /* Hace que la imagen sea un elemento de bloque */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+}
